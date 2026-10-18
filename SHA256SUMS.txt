@@ -1,0 +1,7 @@
+5a87d9eddb1b067de6a15ac13d1b4d6546d6dd2ec137f213d5fb4acfd3741e95  CappAckiMiner Last Epoch_1.0.18_x64-setup.exe
+9a4eb2c978f9a02a7ce5fbf887eb7b7faf3525d7b310cbc5308d38f8ef26664e  CappAckiMiner-6.0.0-Android-Bee6-License-Time140-270-Universal.apk
+6642eb4e33ab4878bb81850ab2515af728520c718d3091c68ee8f47bd9fcb7f1  CappAckiMiner-6.0.0-Bee6-NativeBackground-6000003-Universal.apk
+0fd39e03a6ee2e7e5aa08442ac5d221f79338c9f7b68f355752172263d4e0a49  CappAckiMiner-6.0.0-ME-Premium-Gold-AcceptRate-Cap12000-WalletSafe-v1.0.14-x64-Setup.exe
+3351f8370c4eb25b0cb9a846dba4332e15ea8a9e81d3165261f6df7989d4b284  CappAckiMiner-Eye-v1.0.48-FastReads-CardFlash10s-4allWhite-x64-Setup-DailyEpochFix.exe
+5217a1bbd53a47d74904ff5ee2c6d888522dcc5145979b88446c75bf342b3fc9  CappAckiMiner-Legacy-Backup-Converter-Setup.exe
+4b913dffd706b94e40662c7082a1b10d3c4be0e9d5922766978651549e252988  cappavatar.jpg
