@@ -1,4 +1,4 @@
-5a87d9eddb1b067de6a15ac13d1b4d6546d6dd2ec137f213d5fb4acfd3741e95  CappAckiMiner.Last.Epoch_1.0.18_x64-setup.exe
+54dad4ac9c3e8268ac394e19cc5ad79a795b0e84963854713c1261eaa2c8746b  CappAckiMiner-Last-Epoch-v1.0.19-AccountReadPathFix-x64-Setup.exe
 9a4eb2c978f9a02a7ce5fbf887eb7b7faf3525d7b310cbc5308d38f8ef26664e  CappAckiMiner-6.0.0-Android-Bee6-License-Time140-270-Universal.apk
 6642eb4e33ab4878bb81850ab2515af728520c718d3091c68ee8f47bd9fcb7f1  CappAckiMiner-6.0.0-Bee6-NativeBackground-6000003-Universal.apk
 0fd39e03a6ee2e7e5aa08442ac5d221f79338c9f7b68f355752172263d4e0a49  CappAckiMiner-6.0.0-ME-Premium-Gold-AcceptRate-Cap12000-WalletSafe-v1.0.14-x64-Setup.exe
