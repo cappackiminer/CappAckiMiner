@@ -5,3 +5,4 @@
 3351f8370c4eb25b0cb9a846dba4332e15ea8a9e81d3165261f6df7989d4b284  CappAckiMiner-Eye-v1.0.48-FastReads-CardFlash10s-4allWhite-x64-Setup-DailyEpochFix.exe
 5217a1bbd53a47d74904ff5ee2c6d888522dcc5145979b88446c75bf342b3fc9  CappAckiMiner-Legacy-Backup-Converter-Setup.exe
 4b913dffd706b94e40662c7082a1b10d3c4be0e9d5922766978651549e252988  cappavatar.jpg
+F47C7F7F5FC95B9FD5F41869F6823FBD78A32DCF1DCA5A70373613FD14DFC7AE  CappAckiMiner-6.0.0-ME-Premium-Gold-Auto10-v1.0.24-x64-Setup.exe
