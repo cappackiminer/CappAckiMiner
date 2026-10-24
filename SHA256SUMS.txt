@@ -1,7 +1,7 @@
-54dad4ac9c3e8268ac394e19cc5ad79a795b0e84963854713c1261eaa2c8746b  CappAckiMiner-Last-Epoch-v1.0.19-AccountReadPathFix-x64-Setup.exe
-e7de74beedfa45a4d1587a2bffef1e62af50750b091215f973ea92cc69213763  CappAckiMiner-6.0.0-Bee6-NativePoW-6000006-Universal.apk
-d098bb22bfbaf209f4eaad2fe44a47db59af72fffe6d6a3ddb22d1d8f4a36fb8  CappAckiMiner-6.0.0-ME-Premium-Gold-Queue-Stability-PerWallet-v1.0.30-x64-Setup.exe
+8e58587efc04f3eb7c74ccfaf2625a79b4e77fc093530c89007188bc7b352360  CappAckiMiner-6.0.0-Bee6-NativePoW-6000007-Universal.apk
 0fd39e03a6ee2e7e5aa08442ac5d221f79338c9f7b68f355752172263d4e0a49  CappAckiMiner-6.0.0-ME-Premium-Gold-AcceptRate-Cap12000-WalletSafe-v1.0.14-x64-Setup.exe
 3351f8370c4eb25b0cb9a846dba4332e15ea8a9e81d3165261f6df7989d4b284  CappAckiMiner-Eye-v1.0.48-FastReads-CardFlash10s-4allWhite-x64-Setup-DailyEpochFix.exe
+0dfcb618ecf64cf9ed244c6037b2a37ee30fc698ecd56540dd76e0d829635b77  CappAckiMiner-Last-Epoch-v1.0.22-ShortcutIconRefresh-x64-Setup.exe
 5217a1bbd53a47d74904ff5ee2c6d888522dcc5145979b88446c75bf342b3fc9  CappAckiMiner-Legacy-Backup-Converter-Setup.exe
 4b913dffd706b94e40662c7082a1b10d3c4be0e9d5922766978651549e252988  cappavatar.jpg
+78b46ca302ab73ba579609d8214ad533054389063d0b15261051660e1e46307b  CappAckiMiner-6.0.0-ME-Premium-Gold-GPU-GlowFix-v1.0.36-x64-Setup.exe
