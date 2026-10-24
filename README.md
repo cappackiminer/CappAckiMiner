@@ -23,7 +23,7 @@ Windows and Android downloads for CappAckiMiner, CappAckiMiner Eye, Last Epoch, 
 
 The current Android download is **Bee6 NativePoW, build 6000006 (Universal)**.
 
-## Android archive
+## Archive
 
 The previous **Native Background (6000003)** and **License / Time140–270** APKs are available in the **[Android Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/android-archive-2026-10-23)**, with their original filenames and SHA-256 checksums.
 
