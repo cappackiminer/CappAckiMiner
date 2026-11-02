@@ -12,7 +12,7 @@ Windows and Android downloads for CappAckiMiner, CappAckiMiner Eye, Last Epoch, 
 
 | Application | Version / build | Platform | Summary | Installer / APK |
 | --- | --- | --- | --- | --- |
-| **CAPPA Miner** | 1.0.75 | Windows x64 | Real process engines, manual 1–8 selection, fixed 150-second computation limit and updated header/log/price-list display. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Miner-v1.0.75-x64-Setup.exe) |
+| **CAPPA Miner** | 1.0.76 | Windows x64 | Licensed Real ME engines; NACKL/SHELL subscriptions, manual-code alternative, 30/60/90-day terms and invoice recovery. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Miner-v1.0.76-x64-Setup.exe) |
 | **CappAckiMiner 6.0.0 — Bee6 NativePoW** | Build 6000007 | Android | Current universal Bee6 NativePoW APK. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-6.0.0-Bee6-NativePoW-6000007-Universal.apk) |
 | **CappAckiMiner Last Epoch** | 1.0.22 | Windows x64 | Read-only wallet reward tracker for the last completed epoch, with updated account reads and wallet imports. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Last-Epoch-v1.0.22-ShortcutIconRefresh-x64-Setup.exe) |
 | **CappAckiMiner Eye — Daily Epoch Fix** | 1.0.48 | Windows x64 | Wallet monitoring dashboard for balances and epoch reward summaries, including the daily epoch data fix. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Eye-v1.0.48-FastReads-CardFlash10s-4allWhite-x64-Setup-DailyEpochFix.exe) |
@@ -26,7 +26,7 @@ The current Android download is **Bee6 NativePoW, build 6000007 (Universal)**.
 
 ### Windows
 
-The previous **Real ME 1.0.72**, **oneSDK ME 1.0.59 — Display / Reward Fix**, **1.0.58**, **1.0.14**, **1.0.36 — GPU Glow Fix**, and **1.0.30 — Queue Stability / Per Wallet** installers are available in the **[Windows Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/windows-archive-2026-10-24)**, with their original filenames and SHA-256 checksums.
+The previous **CAPPA Miner 1.0.75 setup and licensed portable executable**, **Real ME 1.0.72**, **oneSDK ME 1.0.59 — Display / Reward Fix**, **1.0.58**, **1.0.14**, **1.0.36 — GPU Glow Fix**, and **1.0.30 — Queue Stability / Per Wallet** installers are available in the **[Windows Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/windows-archive-2026-10-24)**, with their original filenames and SHA-256 checksums.
 
 ### Android
 
