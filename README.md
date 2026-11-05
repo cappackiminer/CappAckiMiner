@@ -4,7 +4,7 @@
 
 # CappAckiMiner Downloads
 
-Windows and Android downloads for CappAckiMiner, CappAckiMiner Eye, Last Epoch, and the Legacy Backup Converter.
+Windows and Android downloads for CAPPA hardworker, CappAckiMiner Bee6, Last Epoch, and the Legacy Backup Converter.
 
 ## Download page
 
@@ -15,7 +15,6 @@ Windows and Android downloads for CappAckiMiner, CappAckiMiner Eye, Last Epoch, 
 | **CAPPA hardworker** | 1.0.88 | Windows x64 | Licensed CPU/AVX2 Real ME; 1–4 engines, 1–200 selected paid wallets, NACKL/SHELL payments and manual-code alternative. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-hardworker-v1.0.88-x64-Setup.exe) |
 | **CappAckiMiner 6.0.0 — Bee6 NativePoW** | Build 6000007 | Android | Current universal Bee6 NativePoW APK. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-6.0.0-Bee6-NativePoW-6000007-Universal.apk) |
 | **CappAckiMiner Last Epoch** | 1.0.24 | Windows x64 | Read-only reward tracker; clickable Last Epoch, This Epoch, Locked, Unlocked, and Total headings sort wallets and toggle direction on repeat click. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Last-Epoch-v1.0.24-Clickable-Sorting-x64-Setup.exe) |
-| **CappAckiMiner Eye — Daily Epoch Fix** | 1.0.48 | Windows x64 | Wallet monitoring dashboard for balances and epoch reward summaries, including the daily epoch data fix. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Eye-v1.0.48-FastReads-CardFlash10s-4allWhite-x64-Setup-DailyEpochFix.exe) |
 | **CappAckiMiner Legacy Backup Converter** | 1.0.0 | Windows | Utility for converting older CappAckiMiner wallet backups for use with newer versions. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Legacy-Backup-Converter-Setup.exe) |
 
 ## Android builds
