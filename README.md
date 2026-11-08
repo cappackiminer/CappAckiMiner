@@ -4,7 +4,7 @@
 
 # CappAckiMiner Downloads
 
-Windows and Android downloads for CAPPA hardworker, CappAckiMiner Bee6, Last Epoch, and the Legacy Backup Converter.
+Windows and Android downloads for CAPPA Eagle, Last Epoch, and the Legacy Backup Converter.
 
 ## Download page
 
@@ -12,24 +12,24 @@ Windows and Android downloads for CAPPA hardworker, CappAckiMiner Bee6, Last Epo
 
 | Application | Version / build | Platform | Summary | Installer / APK |
 | --- | --- | --- | --- | --- |
-| **CAPPA hardworker** | 1.0.88 | Windows x64 | Licensed CPU/AVX2 Real ME; 1–4 engines, 1–200 selected paid wallets, NACKL/SHELL payments and manual-code alternative. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-hardworker-v1.0.88-x64-Setup.exe) |
-| **CappAckiMiner 6.0.0 — Bee6 NativePoW** | Build 6000007 | Android | Current universal Bee6 NativePoW APK. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-6.0.0-Bee6-NativePoW-6000007-Universal.apk) |
+| **CAPPA Eagle** | 1.0.97 | Windows x64 | Licensed mining installer with separate engine processes, corrected ACCEPT statistics, and automatic or manual licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.97-AcceptRateFix-x64-Setup.exe) |
+| **CAPPA Eagle Android** | 1.0.93 · 6000016 | Android 7+ · ARM64 / ARMv7 | Native mining service, three-day device trial, and automatic or manual licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.93-Android-6000016-ARM.apk) |
 | **CappAckiMiner Last Epoch** | 1.0.24 | Windows x64 | Read-only reward tracker; clickable Last Epoch, This Epoch, Locked, Unlocked, and Total headings sort wallets and toggle direction on repeat click. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Last-Epoch-v1.0.24-Clickable-Sorting-x64-Setup.exe) |
 | **CappAckiMiner Legacy Backup Converter** | 1.0.0 | Windows | Utility for converting older CappAckiMiner wallet backups for use with newer versions. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Legacy-Backup-Converter-Setup.exe) |
 
 ## Android builds
 
-The current Android download is **Bee6 NativePoW, build 6000007 (Universal)**.
+The current Eagle Android APK supports ARM64 and 32-bit ARMv7 phones. An in-place update of the same Eagle app preserves its local payment identity.
 
 ## Archive
 
 ### Windows
 
-The previous **CAPPA Miner 1.0.76 installer**, **CAPPA Miner 1.0.75 setup and licensed portable executable**, **Real ME 1.0.72**, **oneSDK ME 1.0.59 — Display / Reward Fix**, **1.0.58**, **1.0.14**, **1.0.36 — GPU Glow Fix**, and **1.0.30 — Queue Stability / Per Wallet** installers are available in the **[Windows Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/windows-archive-2026-10-24)**, with their original filenames and SHA-256 checksums.
+**CAPPA hardworker 1.0.88**, **CAPPA Miner 1.0.76**, and earlier Windows packages are available in the **[Windows Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/windows-archive-2026-10-24)** with their original filenames and SHA-256 checksums.
 
 ### Android
 
-The previous **Native Background (6000003)**, **NativePoW (6000006)**, and **License / Time140–270** APKs are available in the **[Android Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/android-archive-2026-10-23)**, with their original filenames and SHA-256 checksums.
+**Bee6 NativePoW 6000007** and earlier Bee6 APKs are available in the **[Android Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/android-archive-2026-10-23)** with their original filenames and SHA-256 checksums.
 
 ## File verification
 
