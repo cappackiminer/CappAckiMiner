@@ -12,7 +12,7 @@ Windows downloads for CAPPA Eagle, Last Epoch, and the Legacy Backup Converter.
 
 | Application | Version / build | Platform | Summary | Installer |
 | --- | --- | --- | --- | --- |
-| **CAPPA Eagle** | 1.0.97 | Windows x64 | Licensed mining installer with separate engine processes, corrected ACCEPT statistics, and automatic or manual licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.97-AcceptRateFix-x64-Setup.exe) |
+| **CAPPA Eagle** | 1.0.97 | Windows x64 | Licensed mining installer with separate engine processes, per-wallet ROOT and PROOF timing, and automatic or manual licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.97-EagleRight-x64-Setup.exe) |
 | **CappAckiMiner Last Epoch** | 1.0.24 | Windows x64 | Read-only reward tracker; clickable Last Epoch, This Epoch, Locked, Unlocked, and Total headings sort wallets and toggle direction on repeat click. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Last-Epoch-v1.0.24-Clickable-Sorting-x64-Setup.exe) |
 | **CappAckiMiner Legacy Backup Converter** | 1.0.0 | Windows | Utility for converting older CappAckiMiner wallet backups for use with newer versions. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Legacy-Backup-Converter-Setup.exe) |
 
@@ -20,7 +20,7 @@ Windows downloads for CAPPA Eagle, Last Epoch, and the Legacy Backup Converter.
 
 ### Windows
 
-**CAPPA hardworker 1.0.88**, **CAPPA Miner 1.0.76**, and earlier Windows packages are available in the **[Windows Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/windows-archive-2026-10-24)** with their original filenames and SHA-256 checksums.
+**CAPPA Eagle 1.0.97 AcceptRateFix**, **CAPPA hardworker 1.0.88**, **CAPPA Miner 1.0.76**, and earlier Windows packages are available in the **[Windows Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/windows-archive-2026-10-24)** with their original filenames and SHA-256 checksums.
 
 ### Android
 
