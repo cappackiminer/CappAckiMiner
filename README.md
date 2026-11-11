@@ -4,7 +4,7 @@
 
 # CappAckiMiner Downloads
 
-Windows downloads for CAPPA Eagle, Last Epoch, and the Legacy Backup Converter.
+Windows and Android downloads for CAPPA Eagle, plus Last Epoch and the Legacy Backup Converter for Windows.
 
 ## Download page
 
@@ -13,18 +13,9 @@ Windows downloads for CAPPA Eagle, Last Epoch, and the Legacy Backup Converter.
 | Application | Version / build | Platform | Summary | Installer |
 | --- | --- | --- | --- | --- |
 | **CAPPA Eagle** | 1.0.97 | Windows x64 | Licensed mining installer with separate engine processes, per-wallet ROOT and PROOF timing, completed epoch ACCEPT telemetry, and automatic or manual licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.97-Windows-x64-Setup.exe) |
+| **CAPPA Eagle Android** | 1.0.93 · 6000029 | Android 7+ · ARM 32/64-bit | Signed universal APK, 155-second computation window, and licensing by wallet name. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.93-Android-6000029-Hard155-Universal.apk) |
 | **CappAckiMiner Last Epoch** | 1.0.25 | Windows x64 | Read-only reward tracker with live on-chain daily-epoch taps and sortable reward and balance columns. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Last-Epoch-v1.0.25-LiveTap-x64-Setup.exe) |
 | **CappAckiMiner Legacy Backup Converter** | 1.0.0 | Windows | Utility for converting older CappAckiMiner wallet backups for use with newer versions. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Legacy-Backup-Converter-Setup.exe) |
-
-## Archive
-
-### Windows
-
-**CAPPA Eagle 1.0.97 AcceptRateFix**, **CAPPA hardworker 1.0.88**, **CAPPA Miner 1.0.76**, and earlier Windows packages are available in the **[Windows Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/windows-archive-2026-10-24)** with their original filenames and SHA-256 checksums.
-
-### Android
-
-**Bee6 NativePoW 6000007** and earlier Bee6 APKs are available in the **[Android Archive](https://github.com/cappackiminer/CappAckiMiner/releases/tag/android-archive-2026-10-23)** with their original filenames and SHA-256 checksums.
 
 ## File verification
 
