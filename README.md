@@ -4,7 +4,7 @@
 
 # CappAckiMiner Downloads
 
-Windows and Android downloads for CAPPA Eagle, plus Last Epoch and the Legacy Backup Converter for Windows.
+Windows and Android downloads for CAPPA Eagle, plus CAPPA Boost, Last Epoch, and the Legacy Backup Converter for Windows.
 
 ## Download page
 
@@ -14,6 +14,7 @@ Windows and Android downloads for CAPPA Eagle, plus Last Epoch and the Legacy Ba
 | --- | --- | --- | --- | --- |
 | **CAPPA Eagle** | 1.1.0 | Windows x64 | Windows installer with automatic and manual licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.1.0-x64-Setup.exe) |
 | **CAPPA Eagle Android** | 1.0.93 · 6000029 | Android 7+ · ARM 32/64-bit | Signed universal APK with wallet-name licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.93-Android-6000029-Hard155-Universal.apk) |
+| **CAPPA Boost** | 1.0.10 | Windows x64 | Automatically collects daily Boost rewards. **A QR connection is all you need. Telegram and Gmail are not required.** | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Boost-v1.0.10-x64-Setup.exe) |
 | **CappAckiMiner Last Epoch** | 1.0.25 | Windows x64 | Read-only reward tracker with live on-chain daily-epoch taps and sortable reward and balance columns. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Last-Epoch-v1.0.25-LiveTap-x64-Setup.exe) |
 | **CappAckiMiner Legacy Backup Converter** | 1.0.0 | Windows | Utility for converting older CappAckiMiner wallet backups for use with newer versions. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Legacy-Backup-Converter-Setup.exe) |
 
