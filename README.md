@@ -12,10 +12,14 @@ Windows and Android downloads for CAPPA Eagle, plus Last Epoch and the Legacy Ba
 
 | Application | Version / build | Platform | Summary | Installer |
 | --- | --- | --- | --- | --- |
-| **CAPPA Eagle** | 1.0.97 | Windows x64 | Licensed mining installer with separate engine processes, per-wallet ROOT and PROOF timing, completed epoch ACCEPT telemetry, and automatic or manual licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.97-Windows-x64-Setup.exe) |
-| **CAPPA Eagle Android** | 1.0.93 · 6000029 | Android 7+ · ARM 32/64-bit | Signed universal APK, 155-second computation window, and licensing by wallet name. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.93-Android-6000029-Hard155-Universal.apk) |
+| **CAPPA Eagle** | 1.1.0 | Windows x64 | Windows installer with automatic and manual licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.1.0-x64-Setup.exe) |
+| **CAPPA Eagle Android** | 1.0.93 · 6000029 | Android 7+ · ARM 32/64-bit | Signed universal APK with wallet-name licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.93-Android-6000029-Hard155-Universal.apk) |
 | **CappAckiMiner Last Epoch** | 1.0.25 | Windows x64 | Read-only reward tracker with live on-chain daily-epoch taps and sortable reward and balance columns. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Last-Epoch-v1.0.25-LiveTap-x64-Setup.exe) |
 | **CappAckiMiner Legacy Backup Converter** | 1.0.0 | Windows | Utility for converting older CappAckiMiner wallet backups for use with newer versions. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Legacy-Backup-Converter-Setup.exe) |
+
+## License guide
+
+[Illustrated guide in six languages](https://cappackiminer.github.io/help/license/#en)
 
 ## File verification
 
@@ -24,4 +28,3 @@ Download [SHA256SUMS.txt](https://github.com/cappackiminer/CappAckiMiner/release
 ## Artwork
 
 The CappAckiMiner logo is available [here](assets/cappavatar.jpg) and as a [release asset](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/cappavatar.jpg).
-
