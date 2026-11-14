@@ -12,7 +12,7 @@ Windows and Android downloads for CAPPA Eagle, plus CAPPA Boost, Last Epoch, and
 
 | Application | Version / build | Platform | Summary | Installer |
 | --- | --- | --- | --- | --- |
-| **CAPPA Eagle** | 1.1.3 | Windows x64 | Windows installer with corrected daily NACKL totals that count mining rewards only, improved QR reconnection, and a backup license server. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.1.3-DailyNacklFix-x64-Setup.exe) |
+| **CAPPA Eagle** | 1.1.4 | Windows x64 | Windows installer with selectable TAP intervals, single-approval AN Wallet QR reconnection, and daily mining reward totals. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.1.4-DailyNacklFix-x64-Setup.exe) |
 | **CAPPA Eagle Android** | 1.0.95 · 6000031 | Android 7+ · ARM 32/64-bit | Signed universal APK with wallet-name licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.95-Android-6000031-LicenseCache-Universal.apk) |
 | **CAPPA Boost** | 1.0.15 | Windows x64 | Automatically collects daily Boost rewards for QR-connected wallets with an active CAPPA Eagle license. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Boost-v1.0.15-FirstStart-x64-Setup.exe) |
 | **CappAckiMiner Last Epoch** | 1.0.25 | Windows x64 | Read-only reward tracker with live on-chain daily-epoch taps and sortable reward and balance columns. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CappAckiMiner-Last-Epoch-v1.0.25-LiveTap-x64-Setup.exe) |
