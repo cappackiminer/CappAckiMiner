@@ -22,6 +22,19 @@ Windows and Android downloads for CAPPA Eagle, plus CAPPA Boost, Last Epoch, and
 
 [Illustrated guide in six languages](https://cappackiminer.github.io/help/license/#en)
 
+## CAPPA Eagle product and user guide
+
+Illustrated reference for the CAPPA Eagle interface and controls.
+
+- [English PDF](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-Product-and-User-Guide-EN.pdf)
+- [Türkçe PDF](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-Tanitim-ve-Yardim-TR.pdf)
+- [Русский PDF](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-User-Guide-RU.pdf)
+- [العربية PDF](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-User-Guide-AR.pdf)
+- [简体中文 PDF](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-User-Guide-ZH.pdf)
+- [Bahasa Indonesia PDF](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-User-Guide-ID.pdf)
+
+[View guides on the CAPPA website](https://cappackiminer.github.io/#eagle-guide)
+
 ## File verification
 
 Download [SHA256SUMS.txt](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/SHA256SUMS.txt) to compare the SHA-256 checksum of your downloaded file. The same checksums are available [in this repository](SHA256SUMS.txt).
