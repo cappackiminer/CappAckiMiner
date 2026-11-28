@@ -12,7 +12,8 @@ Downloads for CAPPA Flash on Windows and Android and CAPPA Eagle on Android, plu
 
 | Application | Version / build | Platform | Summary | Installer |
 | --- | --- | --- | --- | --- |
-| **CAPPA Flash** | 1.2.07 | Windows x64 | Optional GPU-priority Hard TAP, 0 or 1 second TAP intervals, and up to three mining engines. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Flash-v1.2.07-x64-Setup.exe?build=e4b93cc8) |
+| **CAPPA Flash** | 1.3.00 | Windows x64 | IQ reward-based waiting, updated 5m AVG colors, and optional GPU acceleration. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Flash-v1.3.00-RewardGuard-AvgColor-x64-Setup.exe?build=9169f188) |
+| **CAPPA Flash Cloud Mining Test** | 1.3.00 | Windows x64 | Operator test worker for an existing local Cloud Mining coordinator. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Flash-Cloud-Mining-Test-v1.3.00-RewardGuard-AvgColor-x64-Setup.exe) |
 | **CAPPA Flash Android** | 1.0.96 · 6000037 | Android 7+ · ARM 32/64-bit | Selectable 0/1 s TAP interval with a 0 s default and optional Vulkan acceleration for Hard TAP. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Flash-v1.0.96-Android-6000037-Universal.apk) |
 | **CAPPA Eagle Android** | 1.0.96 · 6000034 | Android 7+ · ARM 32/64-bit | Signed universal APK with wallet-name licensing. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Eagle-v1.0.96-Android-6000034-Universal.apk) |
 | **CAPPA Boost** | 1.0.27 | Windows x64 | Automatically collects daily Boost rewards for QR-connected wallets after a one-time active CAPPA Eagle license verification. | [Download](https://github.com/cappackiminer/CappAckiMiner/releases/download/downloads-2026-10-18/CAPPA-Boost-v1.0.27-x64-Setup.exe) |
